@@ -55,8 +55,8 @@ The report is based on simulated data for **Boston Freight Forwarders**. Key ass
 ### **How to Use**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/boston-freight-powerbi-report.git
-   cd boston-freight-powerbi-report
+   git clone https://github.com/Fortune0203/Boston-FF-Report.git
+   cd Boston Freight Forwarder Report
    ```
 
 2. **Open the Power BI File**:
